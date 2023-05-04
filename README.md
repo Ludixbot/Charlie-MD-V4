@@ -1,38 +1,3 @@
-#### 🚀 Versión actual: 1.4.5
-
-<p align="center"> 
-  <a href="https://github.com/Natixemer"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=BotNati-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
-</p>
-
-<a href="https://github.com/Emergit2006"><img src="https://github.com/Emergit2006.png" width="300" height="300" alt="Emergit2006"/></a>
-
-
-<a href="#"><img title="CharliexNatiBot" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
-
-
-
-### —◉ 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨ 
-
-<a href="http://wa.me/51994156047" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="http://Wa.me/51994156047" target="blank"><img src="https://img.shields.io/badge/Bot oficial -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="http://Wa.me/51963194056" target="blank"><img src="https://img.shields.io/badge/OpenAI WaBot -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
------
-### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
-
-<a href="https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c" target="blank"><img src="https://img.shields.io/badge/Grupo CharliexNati-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c" target="blank"><img src="https://img.shields.io/badge/Grupo spamxBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
------
-<a href="https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c" target="blank"><img src="https://img.shields.io/badge/Grupo ayuda sobre el bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
------
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=3000&pause=1000&color=34F6F7&center=falso&vCenter=falso&width=435&lines=%C3%9Anete+y+Conoce+las+%C3%9Altimas+Novedades!!)](https://git.io/typing-svg)
-[![blog](https://img.shields.io/badge/Grupo-actulizaciones-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o)  <a href="https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px">
-</a>
------
-
 
 ### `—◉ 💥 ACTIVAR EN BOXMINEHOST 💥`
 
